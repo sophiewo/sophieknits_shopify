@@ -1,1 +1,151 @@
-{"sections":{"multi_column":{"type":"multicolumn","blocks":{"column1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/christmas_7.png","title":"","text":"<p>Order a <a href=\"https:\/\/www.instagram.com\/explore\/tags\/sophieknits_beanie\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/explore\/tags\/sophieknits_beanie\/\">#SophieKnits_Beanie<\/a> to keep ya head warm. Each beanie is made of soft and durable super wash merino wool, with recycled nylon to give it a perfect stretch. Pick from over 50 colours, custom-made to measure. Right now please use the order form below while the worker bees (me) finish developing the webshop<\/p>","link_label":"Shop your beanie via Google Forms","link":"https:\/\/forms.gle\/xEeCxZYXNXEHnHnS9"}},"column2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/IMG_9989.png","title":"","text":"<p>How to cast on, off, to knit, to purl, essentially all the tools you need to become a fully fledged kniting machine. There is also a video; showing step by step, how I make the <a href=\"https:\/\/www.instagram.com\/p\/CYE1yqGsplV\/\" target=\"_blank\" title=\"#SophieKnits_HotThingsHolder\">#SophieKnits_HotThingsHolder<\/a> for transporting all your heated objects. Check out the free pattern to make your own!<\/p><p> <\/p>","link_label":"Guides and Tips","link":""}},"column3":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/IMG_8657_a642266b-498d-4db6-a51b-d965f84fe9e7.jpg","title":"","text":"<p>Check out all the knits I've made using patterns from the amazing designers in our little 'knitmosphere', some of my favourites are my Balloon Cardigan and my Honey Clutch both by  <a href=\"https:\/\/www.instagram.com\/petiteknit\/\" target=\"_blank\" title=\"PetiteKnit\">PetiteKnit<\/a>, My Autumn League Pullover and Clubhouse Raglan Hoodie by <a href=\"https:\/\/www.instagram.com\/twoofwands\/\" target=\"_blank\" title=\"Two of Wands\">Two Of Wands<\/a>, Tove Sweater by <a href=\"https:\/\/www.instagram.com\/gregoriafibers\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/gregoriafibers\/\">Gregoria Fibers<\/a> and Sweater No.14 by <a href=\"https:\/\/www.instagram.com\/myfavouritethings.knitwear\/\" target=\"_blank\" title=\"My Favourite Things Knitware\">MFTK<\/a><\/p>","link_label":"Finished Knits","link":"shopify:\/\/blogs\/news"}}},"block_order":["column1","column2","column3"],"settings":{"title":"","image_width":"full","image_ratio":"adapt","column_alignment":"left","background_style":"none","button_label":"","button_link":"","swipe_on_mobile":true}},"1642408288d16b005b":{"type":"rich-text","blocks":{"1642408288fad60c30-0":{"type":"heading","settings":{"heading":"Hey, I'm Sophie","heading_size":"h1"}},"1642408288fad60c30-1":{"type":"text","settings":{"text":"<p>A freelance designer, knitter by night (and day too, who am I kidding). I knit #slowfashion woollies and homeware. I sell custom #SophieKnits_beanies and watch this space for other products coming in the Spring. Until the end of 2021 I mainly knit for myself and my friends, however I'll always consider taking on custom commissions if you ask nicely 🖤 :P<\/p><p>This website will one day have tools to help knitwear designers do stitch calculations (the code exists, but there never seems the time to migrate it). <\/p><p>One day I hope to sell some of my custom designs, if I ever get around to writing them up.... (I'm in awe of all you knitters who can churn out beautiful patterns)<\/p><p>In the meantime, you can see what I've been making on Instagram <a href=\"https:\/\/www.instagram.com\/sophieknits_\/\">@sophieknits_<\/a><\/p><p>I'm also an architectural designer, front-end software dev and occasional graphic designer<\/p><p>Find me on GitHub <a href=\"https:\/\/github.com\/sophiewo\">@sophiewo<\/a><\/p><p>You can see my architectural design work at <a href=\"http:\/\/sophieworsnop.com\/\">sophieworsnop.com<\/a> or get in touch by <a href=\"mailto:sophie.g.worsnop@gmail.com\" target=\"_blank\">email<\/a> if you are interested in discussing how we can work together on a freelance basis<\/p><p>For my landscape drawings, visit my wonderful clients Rupert and Arjens at <a href=\"https:\/\/www.meeuwsenmuldoon.com\/\">Meeuwsen Muldoon<\/a><\/p><p><\/p><p>Keep knitting ;)<\/p>"}}},"block_order":["1642408288fad60c30-0","1642408288fad60c30-1"],"settings":{"color_scheme":"background-1","full_width":true}},"rich_text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{"heading":"I started knitting in 2018 after asking my Granny to teach me. Long story short,  I haven't put my needles (& crochet hook) down since","heading_size":"h2"}},"text":{"type":"text","disabled":true,"settings":{"text":"<p>I sell custom beanies, homeware and  chunky jumpers. I also take on custom orders and mend damaged knits. I am a strong believer in the slow fashion movement and would love to convince people to move away from fast fashion, support small businesses (like mine) and own clothes and wear them for longer and restyle them as the fashions change<\/p>"}},"button":{"type":"button","disabled":true,"settings":{"button_label":"Instagram","button_link":"http:\/\/www.instagram.sophieknits_","button_style_secondary":false}}},"block_order":["heading","text","button"],"settings":{"color_scheme":"background-1","full_width":true}},"image_banner":{"type":"image-banner","disabled":true,"blocks":{"heading":{"type":"heading","disabled":true,"settings":{"heading":"Hey I'm Sophie, a knitter, achitectural designer and I also build websites for small businesses","heading_size":"medium"}}},"block_order":["heading"],"settings":{"image":"shopify:\/\/shop_images\/christmas_7.png","image_height":"medium","adapt_height_first_image":true,"desktop_text_box_position":"center","show_text_box":true,"image_overlay_opacity":0,"color_scheme":"background-1","stack_images_on_mobile":true,"show_text_below":true}}},"order":["multi_column","1642408288d16b005b","rich_text","image_banner"]}
+{
+  "sections": {
+    "multi_column": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/christmas_7.png",
+            "title": "",
+            "text": "<p>Order a <a href=\"https:\/\/www.instagram.com\/explore\/tags\/sophieknits_beanie\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/explore\/tags\/sophieknits_beanie\/\">#SophieKnits_Beanie<\/a> to keep ya head warm. Each beanie is made of soft and durable super wash merino wool, with recycled nylon to give it a perfect stretch. Pick from over 50 colours, custom-made to measure. Right now please use the order form below while the worker bees (me) finish developing the webshop<\/p>",
+            "link_label": "Shop your beanie via Google Forms",
+            "link": "https:\/\/forms.gle\/xEeCxZYXNXEHnHnS9"
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9989.png",
+            "title": "",
+            "text": "<p>How to cast on, off, to knit, to purl, essentially all the tools you need to become a fully fledged kniting machine. There is also a video; showing step by step, how I make the <a href=\"https:\/\/www.instagram.com\/p\/CYE1yqGsplV\/\" target=\"_blank\" title=\"#SophieKnits_HotThingsHolder\">#SophieKnits_HotThingsHolder<\/a> for transporting all your heated objects. Check out the free pattern to make your own!<\/p><p> <\/p>",
+            "link_label": "Guides and Tips",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8657_a642266b-498d-4db6-a51b-d965f84fe9e7.jpg",
+            "title": "",
+            "text": "<p>Check out all the knits I've made using patterns from the amazing designers in our little 'knitmosphere', some of my favourites are my Balloon Cardigan and my Honey Clutch both by  <a href=\"https:\/\/www.instagram.com\/petiteknit\/\" target=\"_blank\" title=\"PetiteKnit\">PetiteKnit<\/a>, My Autumn League Pullover and Clubhouse Raglan Hoodie by <a href=\"https:\/\/www.instagram.com\/twoofwands\/\" target=\"_blank\" title=\"Two of Wands\">Two Of Wands<\/a>, Tove Sweater by <a href=\"https:\/\/www.instagram.com\/gregoriafibers\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/gregoriafibers\/\">Gregoria Fibers<\/a> and Sweater No.14 by <a href=\"https:\/\/www.instagram.com\/myfavouritethings.knitwear\/\" target=\"_blank\" title=\"My Favourite Things Knitware\">MFTK<\/a><\/p>",
+            "link_label": "Finished Knits",
+            "link": "shopify:\/\/blogs\/news"
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "1642408288d16b005b": {
+      "type": "rich-text",
+      "blocks": {
+        "1642408288fad60c30-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hey, I'm Sophie test",
+            "heading_size": "h1"
+          }
+        },
+        "1642408288fad60c30-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A freelance designer, knitter by night (and day too, who am I kidding). I knit #slowfashion woollies and homeware. I sell custom #SophieKnits_beanies and watch this space for other products coming in the Spring. Until the end of 2021 I mainly knit for myself and my friends, however I'll always consider taking on custom commissions if you ask nicely 🖤 :P<\/p><p>This website will one day have tools to help knitwear designers do stitch calculations (the code exists, but there never seems the time to migrate it). <\/p><p>One day I hope to sell some of my custom designs, if I ever get around to writing them up.... (I'm in awe of all you knitters who can churn out beautiful patterns)<\/p><p>In the meantime, you can see what I've been making on Instagram <a href=\"https:\/\/www.instagram.com\/sophieknits_\/\">@sophieknits_<\/a><\/p><p>I'm also an architectural designer, front-end software dev and occasional graphic designer<\/p><p>Find me on GitHub <a href=\"https:\/\/github.com\/sophiewo\">@sophiewo<\/a><\/p><p>You can see my architectural design work at <a href=\"http:\/\/sophieworsnop.com\/\">sophieworsnop.com<\/a> or get in touch by <a href=\"mailto:sophie.g.worsnop@gmail.com\" target=\"_blank\">email<\/a> if you are interested in discussing how we can work together on a freelance basis<\/p><p>For my landscape drawings, visit my wonderful clients Rupert and Arjens at <a href=\"https:\/\/www.meeuwsenmuldoon.com\/\">Meeuwsen Muldoon<\/a><\/p><p><\/p><p>Keep knitting ;)<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1642408288fad60c30-0",
+        "1642408288fad60c30-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "I started knitting in 2018 after asking my Granny to teach me. Long story short,  I haven't put my needles (& crochet hook) down since",
+            "heading_size": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>I sell custom beanies, homeware and  chunky jumpers. I also take on custom orders and mend damaged knits. I am a strong believer in the slow fashion movement and would love to convince people to move away from fast fashion, support small businesses (like mine) and own clothes and wear them for longer and restyle them as the fashions change<\/p>"
+          }
+        },
+        "button": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Instagram",
+            "button_link": "http:\/\/www.instagram.sophieknits_",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Hey I'm Sophie, a knitter, achitectural designer and I also build websites for small businesses",
+            "heading_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "heading"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/christmas_7.png",
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "multi_column",
+    "1642408288d16b005b",
+    "rich_text",
+    "image_banner"
+  ]
+}
