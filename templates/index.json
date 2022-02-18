@@ -13,16 +13,6 @@
             "link": "https://forms.gle/xEeCxZYXNXEHnHnS9"
           }
         },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_9989.png",
-            "title": "",
-            "text": "<p>How to cast on, off, to knit, to purl, essentially all the tools you need to become a fully fledged kniting machine. There is also a video; showing step by step, how I make the <a href=\"https://www.instagram.com/p/CYE1yqGsplV/\" target=\"_blank\" title=\"#SophieKnits_HotThingsHolder\">#SophieKnits_HotThingsHolder</a> for transporting all your heated objects. Check out the free pattern to make your own!</p><p> </p>",
-            "link_label": "Guides and Tips",
-            "link": ""
-          }
-        },
         "column3": {
           "type": "column",
           "settings": {
@@ -32,9 +22,23 @@
             "link_label": "Finished Knits",
             "link": "shopify://blogs/news"
           }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9989.png",
+            "title": "",
+            "text": "<p>How to cast on, off, to knit, to purl, essentially all the tools you need to become a fully fledged kniting machine. There is also a video; showing step by step, how I make the <a href=\"https://www.instagram.com/p/CYE1yqGsplV/\" target=\"_blank\" title=\"#SophieKnits_HotThingsHolder\">#SophieKnits_HotThingsHolder</a> for transporting all your heated objects. Check out the free pattern to make your own!</p><p> </p>",
+            "link_label": "Guides and Tips",
+            "link": ""
+          }
         }
       },
-      "block_order": ["column1", "column2", "column3"],
+      "block_order": [
+        "column1",
+        "column3",
+        "column2"
+      ],
       "settings": {
         "title": "",
         "image_width": "full",
@@ -43,7 +47,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": true
+        "swipe_on_mobile": false
       }
     },
     "1642408288d16b005b": {
@@ -51,7 +55,10 @@
       "blocks": {
         "1642408288fad60c30-0": {
           "type": "heading",
-          "settings": { "heading": "Hey, I'm Sophie", "heading_size": "h1" }
+          "settings": {
+            "heading": "Hey, I'm Sophie",
+            "heading_size": "h1"
+          }
         },
         "1642408288fad60c30-1": {
           "type": "text",
@@ -60,8 +67,14 @@
           }
         }
       },
-      "block_order": ["1642408288fad60c30-0", "1642408288fad60c30-1"],
-      "settings": { "color_scheme": "background-1", "full_width": true }
+      "block_order": [
+        "1642408288fad60c30-0",
+        "1642408288fad60c30-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     },
     "rich_text": {
       "type": "rich-text",
@@ -69,20 +82,18 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "I started knitting in 2018 after asking my Granny to teach me. Long story short,  I haven't put my needles (& crochet hook) down since",
+            "heading": "",
             "heading_size": "h2"
           }
         },
         "text": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>I sell custom beanies, homeware and  chunky jumpers. I also take on custom orders and mend damaged knits. I am a strong believer in the slow fashion movement and would love to convince people to move away from fast fashion, support small businesses (like mine) and own clothes and wear them for longer and restyle them as the fashions change</p>"
+            "text": "<p>I started knitting in 2018 after asking my Granny to teach me. Long story short,  I haven't put my needles (& crochet hook) down since</p>"
           }
         },
         "button": {
           "type": "button",
-          "disabled": true,
           "settings": {
             "button_label": "Instagram",
             "button_link": "http://www.instagram.sophieknits_",
@@ -90,8 +101,15 @@
           }
         }
       },
-      "block_order": ["heading", "text", "button"],
-      "settings": { "color_scheme": "background-1", "full_width": true }
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     },
     "image_banner": {
       "type": "image-banner",
@@ -106,7 +124,9 @@
           }
         }
       },
-      "block_order": ["heading"],
+      "block_order": [
+        "heading"
+      ],
       "settings": {
         "image": "shopify://shop_images/christmas_7.png",
         "image_height": "medium",
@@ -120,5 +140,10 @@
       }
     }
   },
-  "order": ["multi_column", "1642408288d16b005b", "rich_text", "image_banner"]
+  "order": [
+    "multi_column",
+    "1642408288d16b005b",
+    "rich_text",
+    "image_banner"
+  ]
 }

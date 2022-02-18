@@ -1,1 +1,76 @@
-{"sections":{"main":{"type":"main-blog","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "disabled": true,
+      "settings": {
+        "layout": "grid",
+        "show_image": true,
+        "image_height": "adapt",
+        "show_date": true,
+        "show_author": false
+      }
+    },
+    "16451032937df0acfe": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
+    },
+    "16451036760e01c0b4": {
+      "type": "multicolumn",
+      "blocks": {
+        "1645103676e43848f8-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Layer_2.png",
+            "title": "Autumn League Sweater",
+            "text": "<p><em>Pattern: Two of Wands</em></p><p><em>Yarn: Lion Brand Wool Ease</em></p><p></p><p>I loved knitting this sweater - it was the first piece of clothing I made that I was truly happy with and still wear to this day</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1645103676e43848f8-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Layer_1.png",
+            "title": "Clubhouse Raglan Hoodie",
+            "text": "<p><em>Pattern: Two of Wands</em></p><p><em>Yarn: Nako Mohair & Wool</em></p><p></p><p>Another two of wands Pattern that I love, I've made two of these hoodies, and it's a firm favourite for lounging around</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1645103676e43848f8-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Layer_0.png",
+            "title": "Amy Sweater",
+            "text": "<p><em>Pattern: SophieKnits_</em></p><p><em>Yarn: Drops Mohair & Sirdar Wool </em></p><p></p><p>This chunky baby is as thick as it is cosy - I plan to make more of these!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1645103676e43848f8-0",
+        "1645103676e43848f8-1",
+        "1645103676e43848f8-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16451032937df0acfe",
+    "16451036760e01c0b4"
+  ]
+}
