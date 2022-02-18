@@ -1,26 +1,45 @@
 {
   "sections": {
-    "main": {
-      "type": "main-blog",
-      "disabled": true,
+    "16451802769de9363d": {
+      "type": "rich-text",
+      "blocks": {
+        "16451802766404c2bb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Finished Knits",
+            "heading_size": "h1"
+          }
+        },
+        "16451802766404c2bb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A collection of my finished (and almost finished) projects. Including Sweaters, Tops, Accessories & Homeware</p>"
+          }
+        },
+        "16451802766404c2bb-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "See More on my Instagram",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16451802766404c2bb-0",
+        "16451802766404c2bb-1",
+        "16451802766404c2bb-2"
+      ],
       "settings": {
-        "layout": "grid",
-        "show_image": true,
-        "image_height": "adapt",
-        "show_date": true,
-        "show_author": false
+        "color_scheme": "background-1",
+        "full_width": true
       }
     },
-    "16451032937df0acfe": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": ""
-      }
-    },
-    "16451036760e01c0b4": {
+    "16451799515ad18cb4": {
       "type": "multicolumn",
       "blocks": {
-        "1645103676e43848f8-0": {
+        "16451799517e05ceb8-0": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Layer_2.png",
@@ -30,7 +49,7 @@
             "link": ""
           }
         },
-        "1645103676e43848f8-1": {
+        "16451799517e05ceb8-1": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Layer_1.png",
@@ -40,21 +59,21 @@
             "link": ""
           }
         },
-        "1645103676e43848f8-2": {
+        "16451799517e05ceb8-2": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Layer_0.png",
             "title": "Amy Sweater",
-            "text": "<p><em>Pattern: SophieKnits_</em></p><p><em>Yarn: Drops Mohair & Sirdar Wool </em></p><p></p><p>This chunky baby is as thick as it is cosy - I plan to make more of these!</p>",
+            "text": "<p><em>Pattern: SophieKnits_</em></p><p><em>Yarn: Drops Mohair & Sirdar Wool</em></p><p>This chunky baby is as thick as it is cosy - I plan to make more of these!</p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "1645103676e43848f8-0",
-        "1645103676e43848f8-1",
-        "1645103676e43848f8-2"
+        "16451799517e05ceb8-0",
+        "16451799517e05ceb8-1",
+        "16451799517e05ceb8-2"
       ],
       "settings": {
         "title": "",
@@ -66,11 +85,17 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
     }
   },
   "order": [
-    "main",
-    "16451032937df0acfe",
-    "16451036760e01c0b4"
+    "16451802769de9363d",
+    "16451799515ad18cb4",
+    "main"
   ]
 }
