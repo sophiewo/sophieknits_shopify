@@ -122,9 +122,10 @@
     {%- endif -%}
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
-  </head>
-
-  <body class="gradient">
+  {{ 'shopstorm-apps.scss.css' | asset_url | stylesheet_tag }}
+  {% render 'shopstorm-scripttags' %}
+</head>
+<body class="gradient">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
     </a>
@@ -169,5 +170,6 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+   {% render 'product-customizer-asw' %}
   </body>
 </html>
